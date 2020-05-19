@@ -12,9 +12,18 @@
 ## [8. Graphs](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
 ## [9. Sorting Algorithms](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
 ## [10. Searching Algorithms](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
-## [11. Greedy Problems](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
 
-# JavaScript Functional Programming
+# Algorithm Design and Techniques
+## [1. Greedy Problems](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction)
+## [2. Dynamic Programming](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
+## [3. Back Stracking](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
+## [4. Functional Programming](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
+
+# Algorithm Complexity
+
+
+
+
 
 
 
