@@ -2,7 +2,7 @@
 
 
 ### Explaination 
-## [1. Arrays](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction)
+### [1. Arrays](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction)
 ## [2. Lists](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
 ## [3. Stacks](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
 ## [4. Linked Lists](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction)
