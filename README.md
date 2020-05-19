@@ -24,7 +24,7 @@
 
 | ID | Title | Solution |
 | --- | --- | --- |
-| gi  | List|     |
+| 1. | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
 | gi  | List|     |
 | gi  | List|     |
 | gi  | List|     |
