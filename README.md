@@ -1,4 +1,4 @@
-# JavaScript Leetcode Solutions
+# JavaScript (Data Structures & Algorithms) & Leetcode Solutions
 
 
 ### Explaination 
