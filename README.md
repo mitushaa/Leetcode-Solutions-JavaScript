@@ -39,5 +39,14 @@
 | 13. | [Roman to Integer](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
 | 14. | [Longest Common Prefix](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
 | 15. | [3Sum  ](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 16. | [3Sum Closest    ](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 17. | [Letter Combinations of a Phone Number   ](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 18. | [4Sum    ](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 19. | [Remove Nth Node From End of List  ](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 20. | [Valid Parentheses ](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+
+
+
+
 
 
