@@ -25,19 +25,19 @@
 | ID | Title | Solution |
 | --- | --- | --- |
 | 1. | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
-| gi  | List|     |
+| 2.  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 3.  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 4.  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 5.  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 6.  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 7.  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 8.  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 9.  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 10. | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 11. | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| 12  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| gi  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| gi  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
+| gi  | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://leetcode.com/problems/two-sum/)|
 
 
