@@ -33,54 +33,11 @@
 | gi  | List|     |
 | gi  | List|     |
 | gi  | List|     |
-
-| git diff | Show fi |
-
-|ID             | Title         |Solution      |
-| ------------- | ------------- | -------------|
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| gi  | List|     |
+| gi  | List|     |
+| gi  | List|     |
+| gi  | List|     |
+| gi  | List|     |
+| gi  | List|     |
 
 
