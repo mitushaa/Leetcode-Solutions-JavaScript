@@ -14,6 +14,7 @@
 ## [10. Searching Algorithms](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
 ## [11. Greedy Problems](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
 
+# JavaScript Functional Programming
 
 
 
