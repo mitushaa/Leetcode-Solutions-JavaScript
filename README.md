@@ -1,7 +1,7 @@
-## JavaScript (Data Structures & Algorithms) & Leetcode Solutions
+### JavaScript (Data Structures & Algorithms) & Leetcode Solutions
 
 
-**Explanation**
+**Explanation**<br>
 [1. Arrays](https://github.com/mitushaa/Leetcode-Solutions-JavaScript/wiki/Array)<br>
 [2. Lists](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) <br>
 [3. Stacks](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) <br>
@@ -13,7 +13,7 @@
 [9. Sorting Algorithms](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) <br>
 [10. Searching Algorithms](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) <br>
 
-**Algorithm Design and Techniques**
+**Algorithm Design and Techniques**<br>
 [1. Greedy Problems](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction)<br>
 [2. Dynamic Programming](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) <br>
 [3. Back Stracking](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction)<br> 
@@ -21,7 +21,7 @@
 
 ## Algorithm Complexity
 
-## Leetcode Solutions
+### Leetcode Solutions
 
 | ID | Title | Solution |
 | --- | --- | --- |
