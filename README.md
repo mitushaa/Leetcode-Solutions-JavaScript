@@ -19,7 +19,7 @@
 [3. Back Stracking](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction)<br> 
 [4. Functional Programming](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) 
 
-## Algorithm Complexity
+**Algorithm Complexity**
 
 ### Leetcode Solutions
 
