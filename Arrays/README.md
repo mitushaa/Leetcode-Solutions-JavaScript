@@ -26,3 +26,9 @@ will always return the position of the first occurrence.
 **lastIndex()**<br>
 Returns the position of the last occurrence of the argument in the array, or -1
 if the argument isn’t found.
+
+**String Representations of Arrays**<br>
+There are two functions that return string representations of an array: 
+**join()** and **toString()**.<br> Both functions return a string containing the elements of the array de‐
+limited by commas.
+
