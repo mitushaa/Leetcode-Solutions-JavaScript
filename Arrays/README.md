@@ -37,3 +37,9 @@ There are two functions that return string representations of an array:
 
 **Mutator Functions**<br>
 JavaScript has a set of mutator functions that allow you to modify the contents of an array without referencing the individual elements.
+
+Adding Elements to the Array: <br>
+There are two mutator functions for adding elements to an array: push() and unshift(). <br>
+The push() function adds an element to the end of an array
+**1.push()**
+**2.unshift()**
