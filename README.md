@@ -2,7 +2,7 @@
 
 
 **Explanation**<br><br>
-[1. Arrays]https://github.com/mitushaa/Leetcode-Solutions-JavaScript/tree/master/Arrays)<br>
+[1. Arrays](https://github.com/mitushaa/Leetcode-Solutions-JavaScript/tree/master/Arrays)<br>
 [2. Lists](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) <br>
 [3. Stacks](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction) <br>
 [4. Linked Lists](https://github.com/mitushaa/Python_Zero_to_Hero_Part1/wiki/Python-Introduction)<br>
