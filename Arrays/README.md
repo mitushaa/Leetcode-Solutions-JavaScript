@@ -48,4 +48,5 @@ unshift()- adds an element to the beginning
 **2.unshift()**
 
 **Removing Elements from an Array**
-**pop()**- Removing an element from the end of an array
+**pop()**- Removing an element from the end of an array<br>
+**shift()**-The mutator function we need to remove an element from the beginning of an array
