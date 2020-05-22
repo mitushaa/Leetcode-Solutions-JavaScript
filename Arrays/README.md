@@ -41,5 +41,6 @@ JavaScript has a set of mutator functions that allow you to modify the contents 
 Adding Elements to the Array: <br>
 There are two mutator functions for adding elements to an array: push() and unshift(). <br>
 The push() function adds an element to the end of an array
+
 **1.push()**
 **2.unshift()**
