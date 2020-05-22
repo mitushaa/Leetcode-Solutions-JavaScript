@@ -33,3 +33,4 @@ There are two functions that return string representations of an array:
 
 **Creating New Arrays from Existing Arrays**<br>
 **concat()** function allows you to put together two or more arrays to create a new array
+**splice()** function allows you to create a new array from a subset of an existing array
