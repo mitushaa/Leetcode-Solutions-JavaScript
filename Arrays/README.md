@@ -17,5 +17,4 @@ It means that any changes made to a copy of object do not reflect in the origina
 JavaScript provides a set of functions you can use to access the elements of an array.<br>
 These functions, called accessor functions, return some representation of the target array
 as their return values.
-
-
+Eg: 2Sum
