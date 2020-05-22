@@ -18,3 +18,12 @@ JavaScript provides a set of functions you can use to access the elements of an 
 These functions, called accessor functions, return some representation of the target array
 as their return values.
 Eg: 2Sum
+
+**indexOf()**<br>
+If you have multiple occurrences of the same data in an array, the indexOf() function
+will always return the position of the first occurrence.
+**lastIndex()**<br>
+Returns the position of the last occurrence of the argument in the array, or -1
+if the argument isn’t found. 
+
+
