@@ -13,4 +13,9 @@ It means first constructing a new collection object and then recursively populat
 In case of deep copy, a copy of object is copied in other object. <br>
 It means that any changes made to a copy of object do not reflect in the original object.
 
+**Accessor Functions**
+JavaScript provides a set of functions you can use to access the elements of an array.<br>
+These functions, called accessor functions, return some representation of the target array
+as their return values.
+
 
