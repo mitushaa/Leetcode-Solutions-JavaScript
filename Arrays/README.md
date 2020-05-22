@@ -25,6 +25,4 @@ will always return the position of the first occurrence.
 
 **lastIndex()**<br>
 Returns the position of the last occurrence of the argument in the array, or -1
-if the argument isn’t found. 
-
-
+if the argument isn’t found.
