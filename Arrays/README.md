@@ -34,3 +34,6 @@ There are two functions that return string representations of an array:
 **Creating New Arrays from Existing Arrays**<br>
 **concat()** function allows you to put together two or more arrays to create a new array
 **splice()** function allows you to create a new array from a subset of an existing array
+
+**Mutator Functions**<br>
+JavaScript has a set of mutator functions that allow you to modify the contents of an array without referencing the individual elements. 
