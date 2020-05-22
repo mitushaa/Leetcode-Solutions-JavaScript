@@ -32,8 +32,8 @@ There are two functions that return string representations of an array:
 **join()** and **toString()**.<br> Both functions return a string containing the elements of the array de‐limited by commas.
 
 **Creating New Arrays from Existing Arrays**<br>
-**concat()** function allows you to put together two or more arrays to create a new array
+**concat()** function allows you to put together two or more arrays to create a new array<br>
 **splice()** function allows you to create a new array from a subset of an existing array
 
 **Mutator Functions**<br>
-JavaScript has a set of mutator functions that allow you to modify the contents of an array without referencing the individual elements. 
+JavaScript has a set of mutator functions that allow you to modify the contents of an array without referencing the individual elements.
