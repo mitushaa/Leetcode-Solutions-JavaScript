@@ -58,3 +58,5 @@ To remove/add elements from middle - **splice()**<br>
 
 The **reduce()** function applies a function to an accumulator and the successive elements
 of an array until the end of the array is reached, yielding a single value.
+
+## Two-Dimensional and Multidimensional Arrays
