@@ -55,3 +55,6 @@ There are two mutator functions for adding elements to an array: push() and unsh
 To remove/add elements from middle - **splice()**<br>
 
 **forEach()**- This function takes a function as an argument and applies the called function to each element of an array.
+
+The **reduce()** function applies a function to an accumulator and the successive elements
+of an array until the end of the array is reached, yielding a single value.
