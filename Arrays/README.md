@@ -48,4 +48,4 @@ There are two mutator functions for adding elements to an array: push() and unsh
 **pop()**- Removing an element from the end of an array<br>
 **shift()**-The mutator function we need to remove an element from the beginning of an array
 
-To remove/add elements from middle - **slice()**
+To remove/add elements from middle - **splice()**
