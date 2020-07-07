@@ -34,6 +34,10 @@ There are two functions that return string representations of an array:
 **concat()** function allows you to put together two or more arrays to create a new array<br>
 **splice()** function allows you to create a new array from a subset of an existing array
 
+**Putting Array Elements in Order**<br>
+For numbers we use **reverse()**
+For strings we use **sort()** - *Does not go well with the numbers
+
 **Mutator Functions**<br>
 JavaScript has a set of mutator functions that allow you to modify the contents of an array without referencing the individual elements.
 
