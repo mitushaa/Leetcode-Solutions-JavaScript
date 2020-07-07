@@ -34,6 +34,10 @@ There are two functions that return string representations of an array:
 **concat()** function allows you to put together two or more arrays to create a new array<br>
 **splice()** function allows you to create a new array from a subset of an existing array
 
+**Putting Array Elements in Order**<br>
+For numbers we use **reverse()**
+For strings we use **sort()** - *Does not go well with the numbers
+
 **Mutator Functions**<br>
 JavaScript has a set of mutator functions that allow you to modify the contents of an array without referencing the individual elements.
 
@@ -48,4 +52,11 @@ There are two mutator functions for adding elements to an array: push() and unsh
 **pop()**- Removing an element from the end of an array<br>
 **shift()**-The mutator function we need to remove an element from the beginning of an array
 
-To remove/add elements from middle - **splice()**
+To remove/add elements from middle - **splice()**<br>
+
+**forEach()**- This function takes a function as an argument and applies the called function to each element of an array.
+
+The **reduce()** function applies a function to an accumulator and the successive elements
+of an array until the end of the array is reached, yielding a single value.
+
+## Two-Dimensional and Multidimensional Arrays
